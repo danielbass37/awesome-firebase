@@ -117,6 +117,7 @@ In this talk, we take a look at how you can use Firebase to build a real time ap
 
 ## Articles
 * [How to CRUD data in Firebase using Ionic Framework](http://javebratt.com/crud-data-in-firebase/?utm_campaign=Best%2Bof%2BFirebase&utm_medium=web&utm_source=Best_of_Firebase_9) - See how to CRUD data in Firebase using Ionic Framework and the AngularFire library, it might seem intimidating at first, but it's actually too easy :)
+* [Coding Tutorial: Build a Secure Chat App with React, Firebase, and Permit.io](https://www.permit.io/blog/coding-tutorial-build-a-secure-chat-app-with-react-firebase-and-permitio) - A step-by-step guide to building a real-time chat app with React, Firebase, and Permit.io. Handling user roles and setting up Firebase for authentication and real-time messaging.
 
 ## Featured Projects
 * [Firebase Adventures](https://github.com/juarezpaf/firebase-adventures) - Firebase Adventures is a journey about how to use Firebase in different ways to give you the ability to build extraordinary cross-platform apps.
